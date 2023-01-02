@@ -36,7 +36,7 @@ Agora é só criptografar o texto dos arquivos rodando o programa usando:
 ```
 python3 madara.py
 ```
-O e pronto já está criptografado. (vale lembrar que o ```madara.py``` é o responsavél por criptografar enquanto que o ```guy_sensei.py``` descriptografa)
+E pronto já está criptografado. (vale lembrar que o ```madara.py``` é o responsavél por criptografar enquanto que o ```guy_sensei.py``` descriptografa)
 
 Se você for tentar ler os arquivos agr usando aquele comando:
 ```
