@@ -12,4 +12,5 @@ apt update
 apt upgrade
 sudo apt install git
 git clone https://github.com/elliot5x/crypt.git
-cd crypt```
+cd crypt
+```
