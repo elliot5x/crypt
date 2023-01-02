@@ -54,4 +54,4 @@ python3 guy_sensei.py
 
 ## Thanks
 
-- Claro., isso é super simples e talvez limitado, mas você pode tornar o codigo mais robusto e melhor, basta mandar suas dicas ai.
+- Claro, isso é super simples e talvez limitado, mas você pode tornar o codigo mais robusto e melhor, basta mandar suas dicas ai.
