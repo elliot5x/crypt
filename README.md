@@ -18,7 +18,7 @@ cd crypt
 
 Eu deixei dois ".txt" para vc textar se está funcionando bem, mas claro que vc pode excluir e criar outros ".txt" da sua escolha.
 
-Para usar você primeiro entrar na pasta obviamente, usando:
+Para usar você terá que primeiro entrar na pasta obviamente, usando:
 ```
 cd crypt
 ```
