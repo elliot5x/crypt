@@ -7,7 +7,8 @@
 
 Para usar você vai precisar digitar os comandos:
 
-```apt update
+```
+apt update
 apt upgrade
 sudo apt install git
 git clone https://github.com/elliot5x/crypt.git
