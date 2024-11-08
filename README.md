@@ -1,4 +1,4 @@
-## Malware com python
+## Criptografia com python
 
 - Ele criptografa com o ```madara.py```
 - E descriptografa com o ```guy_sensei.py```
